@@ -12,10 +12,18 @@ How Elon Musks tweets affect TESLA stock prices.  In the words of Elon Musks:
 > There are many chapters of bankruptcy and, as critics so rightly pointed out, Tesla has them *all*, including Chapter 14 and a half (the worst one).
 
 # Installation
-- Windows
-To download PostgreSQL version 12.1 for Windows x86-64 from (http://enterprisedb.com/downloads/postgres-postgresql-downloads)
-- Mac
-To download Postgres/pgAdmin installation from (https://oregon.bootcampcontent.com/Oregon_Coding_Bootcamp/UofO-POR-DATA-PT-12-2019-U-C/blob/master/04-Resources/PostgreSQL%20Installation/postgresinstallmac.md)
+
+1. Jupyter Notebook installation: (https://jupyter.org/install)
+2. Pandas installation: `pip install pandas`
+3. PostgreSQL installation:
+   - Windows
+     - To download PostgreSQL version 12.1 for Windows x86-64 from (http://enterprisedb.com/downloads/postgres-postgresql-downloads)
+
+   - Mac
+     - To download Postgres/pgAdmin installation from (https://oregon.bootcampcontent.com/Oregon_Coding_Bootcamp/UofO-POR-DATA-PT-12-2019-U-C/blob/master/04-Resources/PostgreSQL%20Installation/postgresinstallmac.md)
+
+4. Other tools:
+   - GenMyModel: (https://app.genmymodel.com/api/login)
 
 
 
