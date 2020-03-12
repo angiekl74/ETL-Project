@@ -11,7 +11,7 @@ learn how to submit a Final Report that describes the following:
 How Elon Musks tweets affect TESLA stock prices.  One of Elon Musk's best tweets:
 > Tesla Goes Bankrupt - Despite intense efforts to raise money, including a last-ditch mass sale of Easter Eggs, we are sad to report that Tesla has gone completely and totally bankrupt. So bankrupt, you can't believe it. There are many chapters of bankruptcy and, as critics so rightly pointed out, Tesla has them *all*, including Chapter 14 and a half (the worst one).
 
-# Installation
+# Implementation steps
 1. Jupyter Notebook installation: (https://jupyter.org/install)
 2. Pandas installation: `pip install pandas` or `conda install pandas`
 3. Psycopg2 installation:  `pip install pyscopg2` or `conda install pyscopg2`
@@ -24,11 +24,16 @@ How Elon Musks tweets affect TESLA stock prices.  One of Elon Musk's best tweets
    - Mac
      - To download Postgres/pgAdmin installation from (https://oregon.bootcampcontent.com/Oregon_Coding_Bootcamp/UofO-POR-DATA-PT-12-2019-U-C/blob/master/04-Resources/PostgreSQL%20Installation/postgresinstallmac.md)
 
-6. Other tools:
-   - GenMyModel: (https://app.genmymodel.com/api/login)
+6. Create ERD using GenMyModel: (https://app.genmymodel.com/api/login). See below, Screenshot of ERD.
    
-  
+7. Create database named 'ETL_Project' in PostgresSQL (See below, Screenshot of ERD)
+
+8. Run each step of Jupyter Notebook file. See 'Methodology' section. 
+
+9. To view results open PostgresSQL and run select statements in 'Code sample' section. To confirm your results see images from 'Screenshot of select statements' section.
+
 # Methodology
+
   - Create ETL_Project database in PostgreSQL
   - In Jupyter Notebook:
     - Load Tweet_data and TSLA csv files into pandas using formatting "UTF-8"
