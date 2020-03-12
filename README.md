@@ -47,7 +47,7 @@ How Elon Musks tweets affect TESLA stock prices.  One of Elon Musk's best tweets
 
 
 # Screenshot of ERD
-![ERD Diagram](/ETL_Project_ERD.png?raw=true "ERD model Example")
+![ERD Diagram](/ETL_Project_ERD.png?raw=true "ERD model")
 
 
 # Code sample
@@ -58,9 +58,9 @@ in the query editor:
 
 
 # Screenshot of select statements
-![ERD Diagram](/example_stock.png?raw=true "ERD model Example")
-![ERD Diagram](/example_tweet
-.png?raw=true "ERD model Example")
+![Screenshot of stock ](/example_stock.png?raw=true "stock example")
+![Screenshot of tweet ](/example_tweet.png?raw=true "tweet example")
+
 
 # Credits
 @ NancyMathur
