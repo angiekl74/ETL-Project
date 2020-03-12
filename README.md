@@ -47,8 +47,7 @@ How Elon Musks tweets affect TESLA stock prices.  One of Elon Musk's best tweets
 
 
 # Screenshot of ERD
-![ERD Diagram](/ETL_Project_ERD.png?raw=true "ERD model")
-
+![ERD](ERD.PNG "ERD")
 
 # Code sample
 To verify your data imported correctly from the csv file to PostgreSQL.  Use pgAdmin, go to the database (ETL_Project), right click on database name and select Query Tool.  Type the following select statement
@@ -58,8 +57,8 @@ in the query editor:
 
 
 # Screenshot of select statements
-![Screenshot of stock ](/example_stock.png?raw=true "stock example")
-![Screenshot of tweet ](/example_tweet.png?raw=true "tweet example")
+![example stock](example_stock.PNG "stock")
+![example tweet](example_tweet.PNG "tweet")
 
 
 # Credits
